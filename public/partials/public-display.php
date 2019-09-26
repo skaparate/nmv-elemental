@@ -7,8 +7,7 @@
  * @link       https://nicomv.com/
  * @since      1.0.0
  *
- * @package    Nicomv\Elemental
- * @package Nicomv\Elemental/public/partials
+ * @package    nicomv/elemental/partials
  */
 
 ?>
