@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+      "squizlabs/php_codesniffer": "*",
+      "dealerdirect/phpcodesniffer-composer-installer": "*",
+      "wp-coding-standards/wpcs": "*",
+      "phpcompatibility/php-compatibility": "*",
+      "phpcompatibility/phpcompatibility-wp": "*"
+    },
+    "prefer-stable": true
+  }
+  
